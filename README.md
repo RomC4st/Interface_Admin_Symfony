@@ -11,4 +11,4 @@ in your file .env:
 
 DATABASE_URL=mysql://username:password@127.0.0.1:3306/db_name
 CORS_ALLOW_ORIGIN=true
-# Interface_Admin_Symfony
+
